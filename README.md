@@ -1,0 +1,2 @@
+# PartsListUpdater-Free
+商品URLから商品名・価格・画像などをExcel発注リストへ反映するWindows用ツール。Free版は1回最大10件。CraftVector公式配布。
